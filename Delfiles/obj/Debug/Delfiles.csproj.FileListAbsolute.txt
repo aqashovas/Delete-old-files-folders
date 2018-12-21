@@ -1,0 +1,10 @@
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\bin\Debug\Delfiles.exe.config
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\bin\Debug\Delfiles.exe
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\bin\Debug\Delfiles.pdb
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.csprojAssemblyReference.cache
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.Form1.resources
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.Properties.Resources.resources
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.csproj.GenerateResource.cache
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.csproj.CoreCompileInputs.cache
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.exe
+C:\Users\Sabina123\Desktop\Delfiles\Delfiles\obj\Debug\Delfiles.pdb
